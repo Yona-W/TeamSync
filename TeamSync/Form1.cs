@@ -51,7 +51,7 @@ namespace TeamSync
             ignorePress = new List<int>();
             ignoreRelease = new List<int>();
             peer = new PhotonPeer(this, ConnectionProtocol.Udp);
-            ignoredKeys = new List<Keys> {Keys.LWin, Keys.RWin, Keys.LControlKey, Keys.RControlKey, Keys.Alt, Keys.PrintScreen, Keys.Escape};
+            ignoredKeys = new List<Keys> {Keys.LWin, Keys.RWin, Keys.LControlKey, Keys.RControlKey, Keys.Alt, Keys.PrintScreen, Keys.Escape, Keys.P, Keys.C, Keys.Tab};
 
         }
 
