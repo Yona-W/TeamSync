@@ -1,0 +1,9 @@
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Debug\TeamSync.exe.config
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.csprojResolveAssemblyReference.cache
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.Form1.resources
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.Properties.Resources.resources
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.csproj.GenerateResource.Cache
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Debug\TeamSync.exe
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Debug\TeamSync.pdb
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.exe
+c:\users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Debug\TeamSync.pdb

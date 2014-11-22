@@ -1,0 +1,11 @@
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Release\TeamSync.exe.config
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Release\TeamSync.exe
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Release\TeamSync.pdb
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Release\InputManager.dll
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\bin\Release\Photon3DotNet.dll
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.Form1.resources
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.Properties.Resources.resources
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.csproj.GenerateResource.Cache
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.exe
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.pdb
+C:\Users\jmont_000\documents\visual studio 2012\Projects\TeamSync\TeamSync\obj\Release\TeamSync.csprojResolveAssemblyReference.cache
